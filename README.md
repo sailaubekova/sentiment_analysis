@@ -1,2 +1,5 @@
 # sentiment_analysis
-Booking.com review analysis 
+Booking.com hotel review analysis 
+
+- 1.  NLTK + TextBlob
+- 2.  BERT
